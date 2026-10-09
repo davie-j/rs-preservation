@@ -1,5 +1,7 @@
 # rs-preservation
 
+AI slop README. I aint writing all that
+
 Screenshots, quest scrolls and interface images of Jagex's RuneScape from 2002 to 2007, recovered from the
 Internet Archive's Wayback Machine (fansites, forum threads, image hosts and players' personal home pages) and from
 early YouTube uploads.
