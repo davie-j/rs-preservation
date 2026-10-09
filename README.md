@@ -21,6 +21,26 @@ the Wayback Machine link, the original file date and a SHA-1.
 | `jagex-official-media/` | 52 | Jagex's own material: the runescape.com screenshot gallery, website pages, logo, support e-mails, a wallpaper |
 | `videos/` | 2 | 2004 player recordings: a RuneScape Classic Wilderness fight and a clan promo |
 
+## Pictures per year
+
+3,017 pictures (plus 2 videos), counted by the year of each file's original date.
+
+| Year | Screenshots | Quest scrolls | Interfaces & crops | Jagex media | **Total** |
+|---|---:|---:|---:|---:|---:|
+| 2002 | 3 | – | – | – | **3** |
+| 2003 | 25 | 2 | 1 | – | **28** |
+| 2004 | 1,102 | 71 | 206 | 10 | **1,389** |
+| 2005 | 538 | 225 | 180 | 40 | **983** |
+| 2006 | 380 | 132 | 46 | 2 | **560** |
+| 2007 | 33 | 4 | 4 | – | **41** |
+| 2008 | – | 11 | – | – | **11** |
+| 2009 | – | 2 | – | – | **2** |
+| **Total** | **2,081** | **447** | **437** | **52** | **3,017** |
+
+The screenshot column includes the 16 RuneScape Classic screenshots under their own years. The 2008–2009 quest scrolls
+are YouTube frames dated by upload and one Zybez guide image dated by a site migration; they show 2006-and-later
+scrolls. Some RuneHQ and Sal's Realm images carry those sites' 2005 migration dates (see the note at the end).
+
 ## What counts as the real game
 
 Every image was checked by eye. Where that was not enough, the page it was posted on decided (the forum thread
