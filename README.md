@@ -16,18 +16,18 @@ the Wayback Machine link, the original file date and a SHA-1.
 |---|---:|---|
 | `quest-completion/<Quest>/` | 447 | Quest-completion scrolls, one folder per quest (126 quests), plus a few real in-quest message scrolls |
 | `screenshots/2003 … 2007/` | 2,065 | RuneScape 2 client screenshots, by year of the original file (2003 is the December 2003 members beta) |
-| `screenshots/runescape-classic/` | 16 | RuneScape Classic screenshots (2002–2005) |
+| `screenshots/runescape-classic/` | 15 | RuneScape Classic screenshots (2002–2005) |
 | `other-interfaces/` | 437 | Crops: dialogue, shops, level-ups, trade and duel windows, bank, stats, maps, items |
 | `jagex-official-media/` | 52 | Jagex's own material: the runescape.com screenshot gallery, website pages, logo, support e-mails, a wallpaper |
 | `videos/` | 2 | 2004 player recordings: a RuneScape Classic Wilderness fight and a clan promo |
 
 ## Pictures per year
 
-3,017 pictures (plus 2 videos), counted by the year of each file's original date.
+3,016 pictures (plus 2 videos), counted by the year of each file's original date.
 
 | Year | Screenshots | Quest scrolls | Interfaces & crops | Jagex media | **Total** |
 |---|---:|---:|---:|---:|---:|
-| 2002 | 3 | – | – | – | **3** |
+| 2002 | 2 | – | – | – | **2** |
 | 2003 | 25 | 2 | 1 | – | **28** |
 | 2004 | 1,102 | 71 | 206 | 10 | **1,389** |
 | 2005 | 538 | 225 | 180 | 40 | **983** |
@@ -35,9 +35,9 @@ the Wayback Machine link, the original file date and a SHA-1.
 | 2007 | 33 | 4 | 4 | – | **41** |
 | 2008 | – | 11 | – | – | **11** |
 | 2009 | – | 2 | – | – | **2** |
-| **Total** | **2,081** | **447** | **437** | **52** | **3,017** |
+| **Total** | **2,080** | **447** | **437** | **52** | **3,016** |
 
-The screenshot column includes the 16 RuneScape Classic screenshots under their own years. The 2008–2009 quest scrolls
+The screenshot column includes the 15 RuneScape Classic screenshots under their own years. The 2008–2009 quest scrolls
 are YouTube frames dated by upload and one Zybez guide image dated by a site migration; they show 2006-and-later
 scrolls. Some RuneHQ and Sal's Realm images carry those sites' 2005 migration dates (see the note at the end).
 
