@@ -2,7 +2,7 @@
 
 AI slop README. I aint writing all that
 
-Screenshots, quest scrolls and interface images of Jagex's RuneScape from 2002 to 2007, recovered from the
+Screenshots, quest scrolls and interface images of Jagex's RuneScape from 2001 to 2007, recovered from the
 Internet Archive's Wayback Machine (fansites, forum threads, image hosts and players' personal home pages) and from
 early YouTube uploads.
 
@@ -14,30 +14,32 @@ the Wayback Machine link, the original file date and a SHA-1.
 
 | Folder | Files | What it holds |
 |---|---:|---|
-| `quest-completion/<Quest>/` | 447 | Quest-completion scrolls, one folder per quest (126 quests), plus a few real in-quest message scrolls |
-| `screenshots/2003 … 2007/` | 2,065 | RuneScape 2 client screenshots, by year of the original file (2003 is the December 2003 members beta) |
-| `screenshots/runescape-classic/` | 15 | RuneScape Classic screenshots (2002–2005) |
-| `other-interfaces/` | 437 | Crops: dialogue, shops, level-ups, trade and duel windows, bank, stats, maps, items |
-| `jagex-official-media/` | 52 | Jagex's own material: the runescape.com screenshot gallery, website pages, logo, support e-mails, a wallpaper |
+| `quest-completion/<Quest>/` | 452 | Quest-completion scrolls, one folder per quest (126 quests), plus a few real in-quest message scrolls |
+| `screenshots/2003 … 2007/` | 2,659 | RuneScape 2 client screenshots, by year of the original file (2003 is the December 2003 members beta) |
+| `screenshots/runescape-classic/` | 671 | RuneScape Classic screenshots and interface crops (2001–2005) |
+| `other-interfaces/` | 706 | Crops: dialogue, level-ups, trade and duel windows, bank, stats, maps, items |
+| `shops/` | 121 | Shop windows, whole or cropped |
+| `jagex-official-media/` | 61 | Jagex's own material: the runescape.com screenshot gallery, website pages, logo, support e-mails, a wallpaper |
 | `videos/` | 2 | 2004 player recordings: a RuneScape Classic Wilderness fight and a clan promo |
 
 ## Pictures per year
 
-3,016 pictures (plus 2 videos), counted by the year of each file's original date.
+4,670 pictures (plus 2 videos), counted by the year of each file's original date.
 
-| Year | Screenshots | Quest scrolls | Interfaces & crops | Jagex media | **Total** |
-|---|---:|---:|---:|---:|---:|
-| 2002 | 2 | – | – | – | **2** |
-| 2003 | 25 | 2 | 1 | – | **28** |
-| 2004 | 1,102 | 71 | 206 | 10 | **1,389** |
-| 2005 | 538 | 225 | 180 | 40 | **983** |
-| 2006 | 380 | 132 | 46 | 2 | **560** |
-| 2007 | 33 | 4 | 4 | – | **41** |
-| 2008 | – | 11 | – | – | **11** |
-| 2009 | – | 2 | – | – | **2** |
-| **Total** | **2,080** | **447** | **437** | **52** | **3,016** |
+| Year | Screenshots | Quest scrolls | Interfaces & crops | Shops | Jagex media | **Total** |
+|---|---:|---:|---:|---:|---:|---:|
+| 2001 | 15 | – | – | – | – | **15** |
+| 2002 | 63 | – | – | – | – | **63** |
+| 2003 | 121 | 2 | 6 | – | – | **129** |
+| 2004 | 1,699 | 71 | 309 | 52 | 15 | **2,146** |
+| 2005 | 886 | 225 | 279 | 62 | 44 | **1,496** |
+| 2006 | 504 | 136 | 110 | 4 | 2 | **756** |
+| 2007 | 42 | 5 | 2 | 3 | – | **52** |
+| 2008 | – | 11 | – | – | – | **11** |
+| 2009 | – | 2 | – | – | – | **2** |
+| **Total** | **3,330** | **452** | **706** | **121** | **61** | **4,670** |
 
-The screenshot column includes the 15 RuneScape Classic screenshots under their own years. The 2008–2009 quest scrolls
+The screenshot column includes the 671 RuneScape Classic screenshots and crops under their own years. The 2008–2009 quest scrolls
 are YouTube frames dated by upload and one Zybez guide image dated by a site migration; they show 2006-and-later
 scrolls. Some RuneHQ and Sal's Realm images carry those sites' 2005 migration dates (see the note at the end).
 
@@ -78,7 +80,7 @@ One per top-level folder; `file` is the path below that folder.
 | Column | Meaning |
 |---|---|
 | `file` | path of the file below the folder |
-| `category` | official game: quest scroll, screenshot, interface or crop, Jagex material, or video |
+| `category` | official game: quest scroll, screenshot, interface or crop, shop window, Jagex material, or video |
 | `description` | what the image shows |
 | `quest`, `version` | quest scrolls only: quest name and scroll design (old-style 2004, new-style 2005+, message scroll) |
 | `original_file_date` | the server's last-modified date for the file, or the capture / upload date when there was none |
